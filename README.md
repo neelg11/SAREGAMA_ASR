@@ -1,4 +1,4 @@
-# Hindi Singing ASR
+# Hindi Singing ASR.
 
 Fine-tuning Whisper models for **Hindi song lyrics transcription**.
 
