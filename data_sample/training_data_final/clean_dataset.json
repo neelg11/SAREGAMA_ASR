@@ -1,0 +1,526 @@
+{
+  "INH100017020_E": [
+    {
+      "start": 7.354,
+      "end": 13.426,
+      "text": "Khat jo bheje the tumne Hain ab bhi Aao hum dono milkar padhte hain",
+      "duration": 6.072,
+      "hindi_text": "खत जो भेजे थे तुमने हैं अब भी आओ हम दोनों मिलकर पढ़ते हैं",
+      "roman_word_count": 14,
+      "hindi_word_count": 14,
+      "word_diff": 0
+    },
+    {
+      "start": 19.084,
+      "end": 24.214,
+      "text": "Aa aa aa Oh oh oh",
+      "duration": 5.13,
+      "hindi_text": "आ आ आ ओह ओह ओह",
+      "roman_word_count": 6,
+      "hindi_word_count": 6,
+      "word_diff": 0
+    },
+    {
+      "start": 29.361,
+      "end": 34.036,
+      "text": "Oh oh oh",
+      "duration": 4.675,
+      "hindi_text": "ओह ओह ओह",
+      "roman_word_count": 3,
+      "hindi_word_count": 3,
+      "word_diff": 0
+    },
+    {
+      "start": 39.661,
+      "end": 45.382,
+      "text": "Aa aa oh oh oh",
+      "duration": 5.721,
+      "hindi_text": "आ आ ओह ओह ओह",
+      "roman_word_count": 5,
+      "hindi_word_count": 5,
+      "word_diff": 0
+    },
+    {
+      "start": 49.366,
+      "end": 59.307,
+      "text": "Yeh pyar ka mausam hai Aise mein chale aao",
+      "duration": 9.941,
+      "hindi_text": "यह प्यार का मौसम है ऐसे में चले आओ",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 60.012,
+      "end": 69.364,
+      "text": "Yeh pyar ka mausam hai Aise mein chale aao",
+      "duration": 9.352,
+      "hindi_text": "यह प्यार का मौसम है ऐसे में चले आओ",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 70.304,
+      "end": 80.264,
+      "text": "Chodo bhi yeh zid apni Chodo bhi yeh zid apni",
+      "duration": 9.96,
+      "hindi_text": "छोड़ो भी यह ज़िद अपनी छोड़ो भी यह ज़िद अपनी",
+      "roman_word_count": 10,
+      "hindi_word_count": 10,
+      "word_diff": 0
+    },
+    {
+      "start": 80.383,
+      "end": 95.28,
+      "text": "Ab aur na tadpao Gustakh bahut hai dil Pehle ise samjhao",
+      "duration": 14.897,
+      "hindi_text": "अब और न तड़पाओ गुस्ताख बहुत है दिल पहले इसे समझाओ",
+      "roman_word_count": 11,
+      "hindi_word_count": 11,
+      "word_diff": 0
+    },
+    {
+      "start": 96.094,
+      "end": 111.047,
+      "text": "Gustakh bahut hai dil Pehle ise samjhao Kya meri zarurat hai",
+      "duration": 14.953,
+      "hindi_text": "गुस्ताख बहुत है दिल पहले इसे समझाओ क्या मेरी ज़रूरत है",
+      "roman_word_count": 11,
+      "hindi_word_count": 11,
+      "word_diff": 0
+    },
+    {
+      "start": 111.434,
+      "end": 126.127,
+      "text": "Kya meri zarurat hai Mausam se behal jao Yeh pyar ka mausam hai",
+      "duration": 14.693,
+      "hindi_text": "क्या मेरी ज़रूरत है मौसम से बेहल जाओ यह प्यार का मौसम है",
+      "roman_word_count": 13,
+      "hindi_word_count": 13,
+      "word_diff": 0
+    },
+    {
+      "start": 126.94,
+      "end": 131.855,
+      "text": "Aise mein chale aao",
+      "duration": 4.915,
+      "hindi_text": "ऐसे में चले आओ",
+      "roman_word_count": 4,
+      "hindi_word_count": 4,
+      "word_diff": 0
+    },
+    {
+      "start": 162.919,
+      "end": 172.928,
+      "text": "Hum chod ke zid apni Is shart pe aayenge",
+      "duration": 10.009,
+      "hindi_text": "हम छोड़ के ज़िद अपनी इस शर्त पे आएंगे",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 173.588,
+      "end": 183.341,
+      "text": "Hum chod ke zid apni Is shart pe aayenge",
+      "duration": 9.753,
+      "hindi_text": "हम छोड़ के ज़िद अपनी इस शर्त पे आएंगे",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 183.981,
+      "end": 194.195,
+      "text": "Is shart pe aayenge Mere hi rahoge tum",
+      "duration": 10.214,
+      "hindi_text": "इस शर्त पे आएंगे मेरे ही रहोगे तुम",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 194.522,
+      "end": 209.46,
+      "text": "Mere hi rahoge tum Pehle yeh kasam khao Mere hi rahoge tum",
+      "duration": 14.938,
+      "hindi_text": "मेरे ही रहोगे तुम पहले यह कसम खाओ मेरे ही रहोगे तुम",
+      "roman_word_count": 12,
+      "hindi_word_count": 12,
+      "word_diff": 0
+    },
+    {
+      "start": 210.126,
+      "end": 220.268,
+      "text": "Pehle yeh kasam khao Kya meri zarurat hai",
+      "duration": 10.142,
+      "hindi_text": "पहले यह कसम खाओ क्या मेरी ज़रूरत है",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 220.392,
+      "end": 235.278,
+      "text": "Kya meri zarurat hai Mausam se behal jao Gustakh bahut hai dil",
+      "duration": 14.886,
+      "hindi_text": "क्या मेरी ज़रूरत है मौसम से बेहल जाओ गुस्ताख बहुत है दिल",
+      "roman_word_count": 12,
+      "hindi_word_count": 12,
+      "word_diff": 0
+    },
+    {
+      "start": 235.772,
+      "end": 246.417,
+      "text": "Pehle ise samjhao Aa aa oh oh oh",
+      "duration": 10.645,
+      "hindi_text": "पहले इसे समझाओ आ आ ओह ओह ओह",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 246.47,
+      "end": 256.571,
+      "text": "Oh oh oh Aa aa oh oh oh",
+      "duration": 10.101,
+      "hindi_text": "ओह ओह ओह आ आ ओह ओह ओह",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 282.19,
+      "end": 292.913,
+      "text": "Jis dil ne tumhe chaha Us dil ki kasam le lo",
+      "duration": 10.723,
+      "hindi_text": "जिस दिल ने तुम्हें चाहा उस दिल की कसम ले लो",
+      "roman_word_count": 11,
+      "hindi_word_count": 11,
+      "word_diff": 0
+    },
+    {
+      "start": 293.123,
+      "end": 307.978,
+      "text": "Jis dil ne tumhe chaha Us dil ki kasam le lo Us dil ki kasam le lo",
+      "duration": 14.855,
+      "hindi_text": "जिस दिल ने तुम्हें चाहा उस दिल की कसम ले लो उस दिल की कसम ले लो",
+      "roman_word_count": 17,
+      "hindi_word_count": 17,
+      "word_diff": 0
+    },
+    {
+      "start": 308.878,
+      "end": 318.504,
+      "text": "Hum sirf tumhare hain Hum sirf tumhare hain",
+      "duration": 9.626,
+      "hindi_text": "हम सिर्फ तुम्हारे हैं हम सिर्फ तुम्हारे हैं",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 319.038,
+      "end": 333.922,
+      "text": "Ye maan ke aa jao Hum sirf tumhare hain Ye maan ke aa jao",
+      "duration": 14.884,
+      "hindi_text": "यह मान के आ जाओ हम सिर्फ तुम्हारे हैं यह मान के आ जाओ",
+      "roman_word_count": 14,
+      "hindi_word_count": 14,
+      "word_diff": 0
+    },
+    {
+      "start": 334.862,
+      "end": 349.698,
+      "text": "Chodo bhi yeh zid apni Chodo bhi yeh zid apni Ab or na tadpao",
+      "duration": 14.836,
+      "hindi_text": "छोड़ो भी यह ज़िद अपनी छोड़ो भी यह ज़िद अपनी अब और न तड़पाओ",
+      "roman_word_count": 14,
+      "hindi_word_count": 14,
+      "word_diff": 0
+    },
+    {
+      "start": 350.351,
+      "end": 360.024,
+      "text": "Yeh pyar ka mausam hai Aise mein chale aao",
+      "duration": 9.673,
+      "hindi_text": "यह प्यार का मौसम है ऐसे में चले आओ",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 391.542,
+      "end": 402.01,
+      "text": "Bichde huye hum tum the Kismat ne milaya hai",
+      "duration": 10.468,
+      "hindi_text": "बिछड़े हुए हम तुम थे किस्मत ने मिलाया है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 402.09,
+      "end": 416.936,
+      "text": "Bichde huye hum tum the Kismat ne milaya hai Kismat ne milaya hai",
+      "duration": 14.846,
+      "hindi_text": "बिछड़े हुए हम तुम थे किस्मत ने मिलाया है किस्मत ने मिलाया है",
+      "roman_word_count": 13,
+      "hindi_word_count": 13,
+      "word_diff": 0
+    },
+    {
+      "start": 417.756,
+      "end": 432.507,
+      "text": "Ab hum naa juda honge Ab hum na juda honge Is dil mein sama jao",
+      "duration": 14.751,
+      "hindi_text": "अब हम न जुदा होंगे अब हम न जुदा होंगे इस दिल में समा जाओ",
+      "roman_word_count": 15,
+      "hindi_word_count": 15,
+      "word_diff": 0
+    },
+    {
+      "start": 433.483,
+      "end": 442.828,
+      "text": "Yeh pyar ka mausam hai Aise mein chale aao",
+      "duration": 9.345,
+      "hindi_text": "यह प्यार का मौसम है ऐसे में चले आओ",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 443.628,
+      "end": 458.308,
+      "text": "Ab hum na juda honge Ab hum na juda honge Is dil mein sama jao",
+      "duration": 14.68,
+      "hindi_text": "अब हम न जुदा होंगे अब हम न जुदा होंगे इस दिल में समा जाओ",
+      "roman_word_count": 15,
+      "hindi_word_count": 15,
+      "word_diff": 0
+    },
+    {
+      "start": 459.225,
+      "end": 473.879,
+      "text": "Yeh pyar ka mausam hai Aise mein chale aao Yeh pyar ka mausam hai",
+      "duration": 14.654,
+      "hindi_text": "यह प्यार का मौसम है ऐसे में चले आओ यह प्यार का मौसम है",
+      "roman_word_count": 14,
+      "hindi_word_count": 14,
+      "word_diff": 0
+    },
+    {
+      "start": 474.543,
+      "end": 485.111,
+      "text": "Aise mein chale aao Aa aa oh oh oh",
+      "duration": 10.568,
+      "hindi_text": "ऐसे में चले आओ आ आ ओह ओह ओह",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 485.373,
+      "end": 494.959,
+      "text": "Aa aa oh oh oh Aa aa oh oh oh",
+      "duration": 9.586,
+      "hindi_text": "आ आ ओह ओह ओह आ आ ओह ओह ओह",
+      "roman_word_count": 10,
+      "hindi_word_count": 10,
+      "word_diff": 0
+    },
+    {
+      "start": 495.739,
+      "end": 502.203,
+      "text": "Aa aa oh oh oh",
+      "duration": 6.464,
+      "hindi_text": "आ आ ओह ओह ओह",
+      "roman_word_count": 5,
+      "hindi_word_count": 5,
+      "word_diff": 0
+    }
+  ],
+  "INH100017040_E": [
+    {
+      "start": 31.579,
+      "end": 42.764,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.185,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 47.252,
+      "end": 58.747,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.495,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 60.217,
+      "end": 72.586,
+      "text": "Dekh lena abhi kuch der mein Duniya kya hai",
+      "duration": 12.369,
+      "hindi_text": "देख लेना अभी कुछ देर में दुनिया क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 72.887,
+      "end": 84.28,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.393,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 110.803,
+      "end": 122.895,
+      "text": "Bandh rakha hai kisi soch ne Ghar se humko",
+      "duration": 12.092,
+      "hindi_text": "बंद रखा है किसी सोच ने घर से हमको",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 126.587,
+      "end": 138.711,
+      "text": "Bandh rakha hai kisi soch ne Ghar se humko",
+      "duration": 12.124,
+      "hindi_text": "बंद रखा है किसी सोच ने घर से हमको",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 139.648,
+      "end": 151.519,
+      "text": "Warna apna dar-o-deewar se Rishta kya hai",
+      "duration": 11.871,
+      "hindi_text": "वरना अपना दर-ओ-दीवार से रिश्ता क्या है",
+      "roman_word_count": 7,
+      "hindi_word_count": 7,
+      "word_diff": 0
+    },
+    {
+      "start": 151.702,
+      "end": 163.198,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.496,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 186.607,
+      "end": 198.491,
+      "text": "Ret ki eenth, ki patthar ki hoon Ya mitti ki",
+      "duration": 11.884,
+      "hindi_text": "रेत की ईंट, की पत्थर की हूं या मिट्टी की",
+      "roman_word_count": 10,
+      "hindi_word_count": 10,
+      "word_diff": 0
+    },
+    {
+      "start": 202.427,
+      "end": 214.602,
+      "text": "Ret ki eenth, ki patthar ki hoon Ya mitti ki",
+      "duration": 12.175,
+      "hindi_text": "रेत की ईंट, की पत्थर की हूं या मिट्टी की",
+      "roman_word_count": 10,
+      "hindi_word_count": 10,
+      "word_diff": 0
+    },
+    {
+      "start": 215.245,
+      "end": 226.875,
+      "text": "Kisi deewar ke saaye ka Bharosa kya hai",
+      "duration": 11.63,
+      "hindi_text": "किसी दीवार के साये का भरोसा क्या है",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 227.573,
+      "end": 239.11,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.537,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 265.668,
+      "end": 277.99,
+      "text": "Apni daanist mein samjhe koi Duniya Shahid",
+      "duration": 12.322,
+      "hindi_text": "अपनी दानिस्त में समझे कोई दुनिया शाहिद",
+      "roman_word_count": 7,
+      "hindi_word_count": 7,
+      "word_diff": 0
+    },
+    {
+      "start": 281.865,
+      "end": 293.761,
+      "text": "Apni daanist mein samjhe koi Duniya Shahid",
+      "duration": 11.896,
+      "hindi_text": "अपनी दानिस्त में समझे कोई दुनिया शाहिद",
+      "roman_word_count": 7,
+      "hindi_word_count": 7,
+      "word_diff": 0
+    },
+    {
+      "start": 294.11,
+      "end": 306.371,
+      "text": "Warna haathon mein lakiron ke Ilaawa kya hai",
+      "duration": 12.261,
+      "hindi_text": "वरना हाथों में लकीरों के इलावा क्या है",
+      "roman_word_count": 8,
+      "hindi_word_count": 8,
+      "word_diff": 0
+    },
+    {
+      "start": 306.45,
+      "end": 317.971,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.521,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 319.273,
+      "end": 331.627,
+      "text": "Dekh lena abhi kuch der mein Duniya kya hai",
+      "duration": 12.354,
+      "hindi_text": "देख लेना अभी कुछ देर में दुनिया क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    },
+    {
+      "start": 331.794,
+      "end": 343.461,
+      "text": "Neend se aankh khuli hai Abhi dekha kya hai",
+      "duration": 11.667,
+      "hindi_text": "नींद से आंख खुली है अभी देखा क्या है",
+      "roman_word_count": 9,
+      "hindi_word_count": 9,
+      "word_diff": 0
+    }
+  ]
+}

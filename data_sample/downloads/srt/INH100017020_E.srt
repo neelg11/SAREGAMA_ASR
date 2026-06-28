@@ -1,0 +1,340 @@
+﻿1
+00:00:00,967 --> 00:00:07,280
+~Music~
+
+2
+00:00:07,354 --> 00:00:09,540
+Khat jo bheje the tumne
+
+3
+00:00:09,952 --> 00:00:11,139
+Hain ab bhi
+
+4
+00:00:11,341 --> 00:00:13,426
+Aao hum dono milkar padhte hain
+
+5
+00:00:13,464 --> 00:00:19,059
+~Music~
+
+6
+00:00:19,084 --> 00:00:21,635
+Aa aa aa
+
+7
+00:00:21,635 --> 00:00:24,214
+Oh oh oh
+
+8
+00:00:24,240 --> 00:00:29,301
+~Music~
+
+9
+00:00:29,361 --> 00:00:34,036
+Oh oh oh
+
+10
+00:00:34,124 --> 00:00:39,621
+~Music~
+
+11
+00:00:39,661 --> 00:00:45,382
+Aa aa oh oh oh
+
+12
+00:00:45,407 --> 00:00:49,297
+~Music~
+
+13
+00:00:49,366 --> 00:00:53,901
+Yeh pyar ka mausam hai
+
+14
+00:00:54,988 --> 00:00:59,307
+Aise mein chale aao
+
+15
+00:01:00,012 --> 00:01:04,434
+Yeh pyar ka mausam hai
+
+16
+00:01:05,194 --> 00:01:09,364
+Aise mein chale aao
+
+17
+00:01:10,304 --> 00:01:15,146
+Chodo bhi yeh zid apni
+
+18
+00:01:15,609 --> 00:01:20,264
+Chodo bhi yeh zid apni
+
+19
+00:01:20,383 --> 00:01:25,432
+Ab aur na tadpao
+
+20
+00:01:25,659 --> 00:01:30,187
+Gustakh bahut hai dil
+
+21
+00:01:30,887 --> 00:01:35,280
+Pehle ise samjhao
+
+22
+00:01:36,094 --> 00:01:40,712
+Gustakh bahut hai dil
+
+23
+00:01:41,219 --> 00:01:45,524
+Pehle ise samjhao
+
+24
+00:01:46,164 --> 00:01:51,047
+Kya meri zarurat hai
+
+25
+00:01:51,434 --> 00:01:55,894
+Kya meri zarurat hai
+
+26
+00:01:56,348 --> 00:02:01,638
+Mausam se behal jao
+
+27
+00:02:01,886 --> 00:02:06,127
+Yeh pyar ka mausam hai
+
+28
+00:02:06,940 --> 00:02:11,855
+Aise mein chale aao
+
+29
+00:02:11,898 --> 00:02:42,919
+~Music~
+
+30
+00:02:42,919 --> 00:02:47,543
+Hum chod ke zid apni
+
+31
+00:02:48,470 --> 00:02:52,928
+Is shart pe aayenge
+
+32
+00:02:53,588 --> 00:02:58,162
+Hum chod ke zid apni
+
+33
+00:02:58,949 --> 00:03:03,341
+Is shart pe aayenge
+
+34
+00:03:03,981 --> 00:03:08,817
+Is shart pe aayenge
+
+35
+00:03:09,190 --> 00:03:14,195
+Mere hi rahoge tum
+
+36
+00:03:14,522 --> 00:03:19,362
+Mere hi rahoge tum
+
+37
+00:03:19,563 --> 00:03:24,175
+Pehle yeh kasam khao
+
+38
+00:03:24,828 --> 00:03:29,460
+Mere hi rahoge tum
+
+39
+00:03:30,126 --> 00:03:34,487
+Pehle yeh kasam khao
+
+40
+00:03:35,120 --> 00:03:40,268
+Kya meri zarurat hai
+
+41
+00:03:40,392 --> 00:03:45,179
+Kya meri zarurat hai
+
+42
+00:03:45,326 --> 00:03:50,013
+Mausam se behal jao
+
+43
+00:03:50,667 --> 00:03:55,278
+Gustakh bahut hai dil
+
+44
+00:03:55,772 --> 00:04:01,297
+Pehle ise samjhao
+
+45
+00:04:01,324 --> 00:04:06,417
+Aa aa oh oh oh
+
+46
+00:04:06,470 --> 00:04:11,658
+Oh oh oh
+
+47
+00:04:11,678 --> 00:04:16,571
+Aa aa oh oh oh
+
+48
+00:04:16,582 --> 00:04:42,190
+~Music~
+
+49
+00:04:42,190 --> 00:04:47,404
+Jis dil ne tumhe chaha
+
+50
+00:04:47,913 --> 00:04:52,913
+Us dil ki kasam le lo
+
+51
+00:04:53,123 --> 00:04:58,121
+Jis dil ne tumhe chaha
+
+52
+00:04:58,495 --> 00:05:02,863
+Us dil ki kasam le lo
+
+53
+00:05:03,496 --> 00:05:07,978
+Us dil ki kasam le lo
+
+54
+00:05:08,878 --> 00:05:13,653
+Hum sirf tumhare hain
+
+55
+00:05:14,000 --> 00:05:18,504
+Hum sirf tumhare hain
+
+56
+00:05:19,038 --> 00:05:24,048
+Ye maan ke aa jao
+
+57
+00:05:24,548 --> 00:05:29,197
+Hum sirf tumhare hain
+
+58
+00:05:29,717 --> 00:05:33,922
+Ye maan ke aa jao
+
+59
+00:05:34,862 --> 00:05:39,681
+Chodo bhi yeh zid apni
+
+60
+00:05:40,028 --> 00:05:44,524
+Chodo bhi yeh zid apni
+
+61
+00:05:45,084 --> 00:05:49,698
+Ab or na tadpao
+
+62
+00:05:50,351 --> 00:05:55,254
+Yeh pyar ka mausam hai
+
+63
+00:05:55,501 --> 00:06:00,024
+Aise mein chale aao
+
+64
+00:06:00,031 --> 00:06:31,391
+~Music~
+
+65
+00:06:31,542 --> 00:06:36,322
+Bichde huye hum tum the
+
+66
+00:06:37,129 --> 00:06:42,010
+Kismat ne milaya hai
+
+67
+00:06:42,090 --> 00:06:46,730
+Bichde huye hum tum the
+
+68
+00:06:47,412 --> 00:06:51,919
+Kismat ne milaya hai
+
+69
+00:06:52,479 --> 00:06:56,936
+Kismat ne milaya hai
+
+70
+00:06:57,756 --> 00:07:02,906
+Ab hum naa juda honge
+
+71
+00:07:03,074 --> 00:07:07,335
+Ab hum na juda honge
+
+72
+00:07:08,035 --> 00:07:12,507
+Is dil mein sama jao
+
+73
+00:07:13,483 --> 00:07:18,018
+Yeh pyar ka mausam hai
+
+74
+00:07:18,634 --> 00:07:22,828
+Aise mein chale aao
+
+75
+00:07:23,628 --> 00:07:28,615
+Ab hum na juda honge
+
+76
+00:07:28,907 --> 00:07:33,423
+Ab hum na juda honge
+
+77
+00:07:33,889 --> 00:07:38,308
+Is dil mein sama jao
+
+78
+00:07:39,225 --> 00:07:43,517
+Yeh pyar ka mausam hai
+
+79
+00:07:44,224 --> 00:07:48,863
+Aise mein chale aao
+
+80
+00:07:49,513 --> 00:07:53,879
+Yeh pyar ka mausam hai
+
+81
+00:07:54,543 --> 00:07:59,586
+Aise mein chale aao
+
+82
+00:08:00,086 --> 00:08:05,111
+Aa aa oh oh oh
+
+83
+00:08:05,373 --> 00:08:09,741
+Aa aa oh oh oh
+
+84
+00:08:10,576 --> 00:08:14,959
+Aa aa oh oh oh
+
+85
+00:08:15,739 --> 00:08:22,203
+Aa aa oh oh oh
+
