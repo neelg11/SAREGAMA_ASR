@@ -1,0 +1,13 @@
+# ── Web server ───────────────────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20      # required by FastAPI for multipart/form uploads
+
+# ── ML / inference ───────────────────────────────────────────────────────
+# torch / torchaudio are intentionally left unpinned here so you can install
+# the CUDA build that matches your H100 driver, e.g.:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch>=2.4
+torchaudio>=2.4
+transformers>=4.44
+accelerate>=0.33             # low_cpu_mem_usage + device placement
