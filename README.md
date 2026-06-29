@@ -81,8 +81,8 @@ hindi-song-asr/
 ├── data_prep/
 ├── training_scripts/
 ├── inference/
-├── outputs/
-└── predictions/
+├── outputs/ to be added by user, Model goes here
+└── predictions/ to be added by user, predictions come here
 ```
 
 ---
